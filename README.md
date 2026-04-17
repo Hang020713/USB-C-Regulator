@@ -7,6 +7,14 @@ This board is designed for small embedded systems, robotics projects, and portab
 
 ---
 
+# 📟 Board Preview
+
+![schematic](/images/schematic.png)
+![layout](/images/layout.png)
+![[pcb]](/images/pcb.png)
+
+---
+
 # 📁 File Structure
 
 <!-- TREEVIEW START -->
@@ -69,10 +77,6 @@ STM32 Board have below features
 
 ⚠️ Always verify output voltage before powering 
 sensitive electronics.
-
----
-
-Got it ✅ — here is your BOM formatted exactly in that clean Markdown table style:
 
 ---
 
